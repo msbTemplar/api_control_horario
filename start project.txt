@@ -1,5 +1,12 @@
 api rest registro horarios
 
+apicontrolhorario
+https://www.pythonanywhere.com/user/apicontrolhorario/
+Moha.93345900
+asus.medic@gmail.com
+
+
+
 http://127.0.0.1:8000/api-auth/login/
 
 http://127.0.0.1:8000/register/.
